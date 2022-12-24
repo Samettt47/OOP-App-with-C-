@@ -1,0 +1,16 @@
+C:\Users\samet\source\repos\OOP4\OOP4\bin\Debug\net5.0\OOP4.exe
+C:\Users\samet\source\repos\OOP4\OOP4\bin\Debug\net5.0\OOP4.deps.json
+C:\Users\samet\source\repos\OOP4\OOP4\bin\Debug\net5.0\OOP4.runtimeconfig.json
+C:\Users\samet\source\repos\OOP4\OOP4\bin\Debug\net5.0\OOP4.runtimeconfig.dev.json
+C:\Users\samet\source\repos\OOP4\OOP4\bin\Debug\net5.0\OOP4.dll
+C:\Users\samet\source\repos\OOP4\OOP4\bin\Debug\net5.0\ref\OOP4.dll
+C:\Users\samet\source\repos\OOP4\OOP4\bin\Debug\net5.0\OOP4.pdb
+C:\Users\samet\source\repos\OOP4\OOP4\obj\Debug\net5.0\OOP4.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\OOP4\OOP4\obj\Debug\net5.0\OOP4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\source\repos\OOP4\OOP4\obj\Debug\net5.0\OOP4.AssemblyInfoInputs.cache
+C:\Users\samet\source\repos\OOP4\OOP4\obj\Debug\net5.0\OOP4.AssemblyInfo.cs
+C:\Users\samet\source\repos\OOP4\OOP4\obj\Debug\net5.0\OOP4.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\OOP4\OOP4\obj\Debug\net5.0\OOP4.dll
+C:\Users\samet\source\repos\OOP4\OOP4\obj\Debug\net5.0\ref\OOP4.dll
+C:\Users\samet\source\repos\OOP4\OOP4\obj\Debug\net5.0\OOP4.pdb
+C:\Users\samet\source\repos\OOP4\OOP4\obj\Debug\net5.0\OOP4.genruntimeconfig.cache
